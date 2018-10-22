@@ -1,0 +1,37 @@
+#footer_box{
+    border-top:8px red;
+    padding-bottom:75px;
+    background-color:#3366CC;
+    }
+    #footer_text_left{
+    font-size:15px;
+    color:black;
+    font-family:'Open Sans', sans-serif;
+
+
+    }
+    #footer_text_middle{
+    font-size:15px;
+    color:black;
+    font-family:'Raleway', sans-serif;
+
+    }
+
+    #footer_text_right{
+
+    font-size:15px;
+    font-family:'Raleway', sans-serif;
+    color:black;
+
+    }
+    p {
+        display: inline-block;
+       }
+    p {
+        float: left;
+      }
+      p {
+        float: left;
+        width: 30%;
+        margin: 0 1%;
+      }
