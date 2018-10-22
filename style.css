@@ -1,23 +1,24 @@
-#footer_box{
+    #footer_box{
     border-top:8px red;
     padding-bottom:75px;
-    background-color:#3366CC;
+    
+    
     }
-    #footer_text_left{
+    #main_text_left{
     font-size:15px;
     color:black;
     font-family:'Open Sans', sans-serif;
 
 
     }
-    #footer_text_middle{
+    #main_text_middle{
     font-size:15px;
     color:black;
     font-family:'Raleway', sans-serif;
 
     }
 
-    #footer_text_right{
+    #main_text_right{
 
     font-size:15px;
     font-family:'Raleway', sans-serif;
@@ -34,4 +35,12 @@
         float: left;
         width: 30%;
         margin: 0 1%;
+      }
+      h1{
+        text-align: center;
+       
+        
+        
+        
+        
       }
