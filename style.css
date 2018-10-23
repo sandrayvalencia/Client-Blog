@@ -1,44 +1,66 @@
-    #footer_box{
-    border-top:8px red;
-    padding-bottom:75px;
-    
-    
-    }
-    #main_text_left{
-    font-size:15px;
-    color:black;
-    font-family:'Open Sans', sans-serif;
+header{
+  border-bottom:8px solid red;
+}
+
+h1{
+text-align: center;
+font-family:Raleway;
+font-size: 80px;
+}
+h2{
+text-align: center;
+font-family:Raleway;
+font-size: 20px;
+text-align:8px solid red;
+
+}
+
+  
+#main_text_left{
+font-size:15px;
+color:black;
+font-family:sans-serif;
+float:left;
 
 
-    }
-    #main_text_middle{
-    font-size:15px;
-    color:black;
-    font-family:'Raleway', sans-serif;
+  }
+.image_1{
+font-size:10px;
+width: 100;
+height: auto;
+background-color:red;
+float: center;
 
-    }
+  
 
-    #main_text_right{
+  }
+.image_2{
+font-size:10px;
+background-color;
+float:center;
 
-    font-size:15px;
-    font-family:'Raleway', sans-serif;
-    color:black;
+}
 
-    }
-    p {
-        display: inline-block;
-       }
-    p {
-        float: left;
-      }
-      p {
-        float: left;
-        width: 30%;
-        margin: 0 1%;
-      }
-      h1{
-        text-align: center;
-       
+#main_text_right{
+
+font-size:15px;
+font-family: sans-serif;
+color:black;
+float:right;
+
+  }
+p {
+float: middle;
+width: 30%;
+margin: 0 1%;
+}  
+ 
+
+footer{
+
+}
+
+
         
         
         
