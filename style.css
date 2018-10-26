@@ -23,9 +23,9 @@ color:black;
 font-family:sans-serif;
 float:left;
 margin: 15px;
+display: block;
 
-
-  }
+}
 .image_1{
 font-size:10px;
 width: 100;
@@ -58,11 +58,15 @@ float: middle;
 width: 30%;
 margin: 0 1%;
 }  
- 
+p1 {
+float: left;
+width: 30%;
+margin: 0 1%;
+}  
 
 footer {
-  float: right;
-  background: red;
+float: right;
+background: red;
 
 }
 #footer_text{
@@ -74,9 +78,25 @@ float:right;
 margin: 30px;
 }
 
+#button{
+   
+border: pink; 
+color: black; 
+padding: 12px 16px; 
+font-size: 15px; 
+cursor: pointer;
 
+}
+
+
+p1::first-letter { 
+font-size: 800%;
+color: red;
+float:left;
+padding: 0.2em;
+}
         
         
         
         
-      }
+      
