@@ -32,15 +32,16 @@ width: 100;
 height: auto;
 background-color:red;
 float: left;
+padding: 10em;
 
   
 
-  }
+}
 .image_2{
 font-size:10px;
 background-color;
-float:center;
-
+float: center;
+padding:5em;
 }
 
 #main_text_right{
@@ -51,6 +52,7 @@ font-family: sans-serif;
 color:black;
 float:right;
 margin: 15px;
+display: block;
 
   }
 p {
